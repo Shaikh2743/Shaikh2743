@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@shaikha60985873" target="blank"><img src="https://img.shields.io/twitter/follow/@shaikha60985873?logo=twitter&style=for-the-badge" alt="@shaikha60985873" /></a> </p>
 
-- 🔭 I’m currently working on [Samyakk](https://www.samyakk.com/)
+- 🔭 I’m currently working on [Samyakk](https://www.samyakk.com/) and [Furtados](https://www.furtadosonline.com/)
 
 - 🌱 I’m currently learning **Vue.js, Magento, MongoDB, Angular**
 
